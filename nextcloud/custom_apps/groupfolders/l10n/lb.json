@@ -1,9 +1,3 @@
-{ "translations": {
-    "Create" : "Erstellen",
-    "Delete" : "Läschen",
-    "Share" : "Deelen",
-    "Folder name" : "Dossiers Numm:",
-    "Groups" : "Gruppen",
-    "Quota" : "Quota"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a73ff97a28571a1e89c117db069bdb276ad264b8a3e4655f9081baa14a43df8
+size 233

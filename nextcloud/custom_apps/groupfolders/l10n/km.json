@@ -1,8 +1,3 @@
-{ "translations": {
-    "Create" : "បង្កើត",
-    "Delete" : "លុប",
-    "Share" : "ចែក​រំលែក",
-    "Folder name" : "ឈ្មោះ​ថត",
-    "Groups" : "ក្រុ"
-},"pluralForm" :"nplurals=1; plural=0;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3f263284932c9142377abb462f5049408ae6fa7363e290d570a277b6c07560a
+size 249

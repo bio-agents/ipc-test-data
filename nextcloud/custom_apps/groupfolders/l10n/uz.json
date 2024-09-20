@@ -1,7 +1,3 @@
-{ "translations": {
-    "Group folders" : "Guruh papkalari",
-    "Delete" : "O'chir",
-    "Folder name" : "Papka nomi",
-    "Groups" : "Guruhlar"
-},"pluralForm" :"nplurals=1; plural=0;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f84ce0db561ea4c62053ff306ab6a9fd04bf2102013bfe2119011a2a989be73d
+size 187

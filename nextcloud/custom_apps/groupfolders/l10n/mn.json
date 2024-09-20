@@ -1,9 +1,3 @@
-{ "translations": {
-    "Create" : "Үүсгэх",
-    "Delete" : "Устгах",
-    "Share" : "Түгээх",
-    "Folder name" : "Хавтасны нэр",
-    "Groups" : "бүлэгүүд",
-    "Quota" : " хувь хэмжээ"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff718c942bd593796ab6c18efa07783e8305c9011e2cf1ba04df3cbc00d17cee
+size 281

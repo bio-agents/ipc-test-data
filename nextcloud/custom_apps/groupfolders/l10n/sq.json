@@ -1,16 +1,3 @@
-{ "translations": {
-    "Group folders" : "Dosjet e grupit",
-    "Deny" : "Refuzo",
-    "Allow" : "Lejo",
-    "Read" : "Lexoni",
-    "Write" : "Shkruaj",
-    "Create" : "Krijo",
-    "Delete" : "Delete",
-    "Share" : "Shpërndaje",
-    "You" : "Ju",
-    "Delete \"{folderName}\"?" : "Fshini \"{folderName}\"?",
-    "Folder name" : "Emri i dosjes",
-    "Groups" : "Grupet",
-    "Quota" : "Kuotë"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ab37b81a386ac243dc10c7c5db5c4a518207c65ea871408394256d13844f35
+size 444

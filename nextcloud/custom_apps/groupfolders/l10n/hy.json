@@ -1,8 +1,3 @@
-{ "translations": {
-    "Create" : "Ստեղծել",
-    "Delete" : "հեռացնել",
-    "Share" : "Կիսվել",
-    "Folder name" : "Պանակի անուն",
-    "Groups" : "Խմբեր"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9a3e1cece28296249f3b3fc2ecf838297f594aa10a9de266e8e1492ee7d9e2d
+size 241

@@ -1,15 +1,3 @@
-{ "translations": {
-    "Group folders" : "Carpetas de grupo",
-    "Deny" : "Rechazar",
-    "Allow" : "Permitir",
-    "Read" : "Leer",
-    "Write" : "Escribir",
-    "Create" : "Crear",
-    "Delete" : "Eliminar",
-    "Share" : "Compartir",
-    "You" : "Usted",
-    "Folder name" : "Nombre de la carpeta",
-    "Groups" : "Grupos",
-    "Quota" : "Cuota"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd9d279d18bb8708bd8bebcc34c414e09bee749d40e2c3f79e67532525e172f
+size 399

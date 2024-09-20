@@ -1,24 +1,3 @@
-{ "translations": {
-    "Group folders" : "Grupu mapes",
-    "Denied" : "Liegts",
-    "Allowed" : "Atļauts",
-    "Denied (Inherited permission)" : "Liegts (Mantota atļauja)",
-    "Allowed (Inherited permission)" : "Atļauts (Mantota atļauja)",
-    "Read" : "Lasīt",
-    "Write" : "Rakstīt",
-    "Create" : "Izveidot",
-    "Delete" : "Dzēst",
-    "Share" : "Koplietot",
-    "You" : "Jūs",
-    "Remove access rule" : "Noņemt piekļuves kārtulu",
-    "Add advanced permission rule" : "Pievienot papildu atļaujas kārtulu",
-    "Delete \"{folderName}\"?" : "Izdzēst \"{folderName}\"?",
-    "Folder name" : "Mapes nosaukums",
-    "Groups" : "Grupas",
-    "Quota" : "Kvota",
-    "Advanced Permissions" : "Papildu atļaujas",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "Vai esi pārliecināts ka gribi izdzēst \"{folderName}\" un visas tajā esošās datnes? Šo operāciju nevar atcelt",
-    "Groupfolder" : "Grupas mape",
-    "(Group)" : "(Grupa)"
-},"pluralForm" :"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cd385336752a1bd6e259a6e9e6c724acf87493889d2e225016d79bbf8fdc672
+size 1107

@@ -1,12 +1,3 @@
-{ "translations": {
-    "Group folders" : "Gruppemapper",
-    "Create" : "Lag",
-    "Delete" : "Ta bort",
-    "Share" : "Del",
-    "Delete \"{folderName}\"?" : "Slett \"{folderName}\"?",
-    "Folder name" : "Katalognavn",
-    "Groups" : "Grupper",
-    "Quota" : "Kvote",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "Er du sikker på at du vil slette \"{folderName}\" med alle filer? Dette kan ikkje angrast."
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c965c30c11e9ed831f5b2706f6c40e74b457c096fc62a5ef904235e7b8d0e1a
+size 525

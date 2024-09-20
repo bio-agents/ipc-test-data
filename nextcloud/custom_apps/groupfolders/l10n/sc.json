@@ -1,6 +1,3 @@
-{ "translations": {
-    "Create" : "Crea",
-    "Delete" : "Cantzella",
-    "Select a user or group" : "Seletziona un'utente o grupu"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:35b59372907b248b86736574822c03d1f93646a0f7b8b2fa777d74bfd54c2ffe
+size 181

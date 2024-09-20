@@ -1,15 +1,3 @@
-{ "translations": {
-    "Group folders" : "ჯგუფური დირექტორიები",
-    "Read" : "წაკითხვა",
-    "Write" : "ჩაწერა",
-    "Create" : "შექმნა",
-    "Delete" : "წაშლა",
-    "Share" : "გაზიარება",
-    "You" : "თქვენ",
-    "Delete \"{folderName}\"?" : "გავაუქმოთ \"{folderName}\"?",
-    "Folder name" : "დირექტორიის სახელი",
-    "Groups" : "ჯგუფები",
-    "Quota" : "ქვოტა",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "დარწმუნებული ხართ, რომ გსურთ გააუქმოთ \"{folderName}\" და ყველა ფაილი მასში? ეს ოპერაცია ვერ იქნება უკუქცეული"
-},"pluralForm" :"nplurals=2; plural=(n!=1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a921698c75c07862a82f64e04210fdf84a59282b9c52a23132ffad369fa7b2cd
+size 983

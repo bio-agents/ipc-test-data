@@ -1,8 +1,3 @@
-{ "translations": {
-    "Create" : "قۇر",
-    "Delete" : "ئۆچۈر",
-    "Share" : "ھەمبەھىر",
-    "Folder name" : "قىسقۇچ ئاتى",
-    "Groups" : "گۇرۇپپا"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:23649b471ff4016077d93edaebf280afe4154beb00f0e80764325923e5da53a5
+size 233

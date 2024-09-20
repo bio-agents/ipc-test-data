@@ -1,10 +1,3 @@
-{ "translations": {
-    "Read" : "อ่าน",
-    "Create" : "สร้าง",
-    "Delete" : "ลบ",
-    "Share" : "แชร์",
-    "Folder name" : "ชื่อโฟลเดอร์",
-    "Groups" : "กลุ่ม",
-    "Quota" : "โควต้า"
-},"pluralForm" :"nplurals=1; plural=0;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85be82602bc7ad40dc1384c9611c7d77f16590b403c75a4fd93cdac28fbf980
+size 308

@@ -1,16 +1,3 @@
-{ "translations": {
-    "Group folders" : "සමූහ බහාලුම්",
-    "Group folder" : "සමූහ බහාලුම",
-    "Read" : "කියවීම",
-    "Write" : "ලිවීම",
-    "Create" : "සාදන්න",
-    "Share" : "බෙදාගන්න",
-    "You" : "ඔබ",
-    "Remove access rule" : "ප්‍රවේශ නීතිය ඉවත් කරන්න",
-    "Select a user or group" : "පරිශීලකයෙකු හෝ සමූහයක් තෝරන්න",
-    "Folder name" : "බහාලුමේ නම",
-    "Groups" : "සමූහ",
-    "Groupfolder" : "සමූහ බහාලුම",
-    "(Group)" : "(සමූහය)"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:50c56c35141cd9ac1926e24f9db161b6c95d888aa3706b2d9693ff2f73ce1443
+size 740

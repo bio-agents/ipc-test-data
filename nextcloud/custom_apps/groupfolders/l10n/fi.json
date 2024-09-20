@@ -1,28 +1,3 @@
-{ "translations": {
-    "Group folders" : "Ryhmäkansiot",
-    "Denied" : "Estetty",
-    "Allowed" : "Sallittu",
-    "Denied (Inherited permission)" : "Estetty (peritty oikeus)",
-    "Allowed (Inherited permission)" : "Sallittu (peritty oikeus)",
-    "Inherit permission" : "Peru oikeudet",
-    "Deny" : "Kiellä",
-    "Allow" : "Salli",
-    "Read" : "Lue",
-    "Write" : "Kirjoita",
-    "Create" : "Luo",
-    "Delete" : "Poista",
-    "Share" : "Jako",
-    "You" : "Sinä",
-    "Remove access rule" : "Poista käyttösääntö",
-    "Add advanced permission rule" : "Lisää edistynyt käyttösääntö",
-    "Select a user or group" : "Valitse käyttäjä tai ryhmä",
-    "Delete \"{folderName}\"?" : "Poistetaanko \"{folderName}\"?",
-    "Folder name" : "Kansion nimi",
-    "Groups" : "Ryhmät",
-    "Quota" : "Kiintiö",
-    "Advanced Permissions" : "Edistyneet oikeudet",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "Haluatko varmasti poistaa kansion \"{folderName}\" ja kaikki sen sisällä olevat tiedostot? Tätä toimintoa ei voi perua",
-    "Groupfolder" : "Ryhmäkansio",
-    "(Group)" : "(Ryhmä)"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:100beea6afc81e89e52b2f5cae2dbd66a5d257844d0be1158c799ac7128992e3
+size 1226

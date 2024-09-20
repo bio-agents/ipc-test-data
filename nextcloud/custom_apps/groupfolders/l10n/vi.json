@@ -1,13 +1,3 @@
-{ "translations": {
-    "Deny" : "Từ chối",
-    "Allow" : "Cho phép",
-    "Read" : "Đọc",
-    "Create" : "Tạo mới",
-    "Delete" : "Xóa",
-    "Share" : "Chia sẻ",
-    "You" : "Bạn",
-    "Folder name" : "Tên thư mục",
-    "Groups" : "Nhóm",
-    "Quota" : "Hạn ngạch"
-},"pluralForm" :"nplurals=1; plural=0;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d1b74b5cbd2abfb7bbf80ba9a54de72cb27e140d9f293b9c31538c83be7c122
+size 333

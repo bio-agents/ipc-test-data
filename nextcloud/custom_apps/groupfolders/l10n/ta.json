@@ -1,9 +1,3 @@
-{ "translations": {
-    "Create" : "உருவாக்குக",
-    "Delete" : "நீக்குக",
-    "Share" : "பகிர்வு",
-    "Folder name" : "கோப்புறை பெயர்",
-    "Groups" : "குழுக்கள்",
-    "Quota" : "பங்கு"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:798f91b8de80eaf3372eba809ee0157a825af5a970360c0bb3865ca6f2ecb283
+size 338

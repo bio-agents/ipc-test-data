@@ -1,7 +1,3 @@
-{ "translations": {
-    "Delete" : "ړنګول",
-    "Share" : "شریکول",
-    "Groups" : "ګروپونه",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "شبش"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:746d0902eb92ea7148f5cd02dddd1bfbe21293139e2f0ca733fd141a5987841b
+size 281

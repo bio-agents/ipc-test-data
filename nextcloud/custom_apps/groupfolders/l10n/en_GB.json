@@ -1,17 +1,3 @@
-{ "translations": {
-    "Group folders" : "Group folders",
-    "Deny" : "Deny",
-    "Allow" : "Allow",
-    "Read" : "Read",
-    "Write" : "Write",
-    "Create" : "Create",
-    "Delete" : "Delete",
-    "Share" : "Share",
-    "You" : "You",
-    "Delete \"{folderName}\"?" : "Delete \"{folderName}\"?",
-    "Folder name" : "Folder name",
-    "Groups" : "Groups",
-    "Quota" : "Quota",
-    "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone" : "Are you sure you want to delete \"{folderName}\" and all files inside? This operation can not be undone"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f81f510c49e0b165dc8663952638a0600e7009bf48132ff0d3cf0273a00a3219
+size 649

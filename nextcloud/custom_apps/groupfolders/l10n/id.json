@@ -1,14 +1,3 @@
-{ "translations": {
-    "Deny" : "Tolak",
-    "Allow" : "Izinkan",
-    "Read" : "Baca",
-    "Create" : "Buat",
-    "Delete" : "Hapus",
-    "Share" : "Bagikan",
-    "Select a user or group" : "Pilih pengguna atau grup",
-    "Folder name" : "Nama Folder",
-    "Groups" : "Grup",
-    "Quota" : "Kuota",
-    "(Group)" : "(Grup)"
-},"pluralForm" :"nplurals=1; plural=0;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:71fa17a2962f156587b5470996f5726006ae4a9342831cb02b34f0ac1149ca95
+size 366

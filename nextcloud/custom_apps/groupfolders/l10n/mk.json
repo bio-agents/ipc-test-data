@@ -1,22 +1,3 @@
-{ "translations": {
-    "Group folders" : "Групни папки",
-    "Denied" : "Забрането",
-    "Allowed" : "Дозволено",
-    "Deny" : "Забрани",
-    "Allow" : "Дозволи",
-    "Group folder" : "Групна папка",
-    "Read" : "Читај",
-    "Create" : "Креирај",
-    "Delete" : "Избриши",
-    "Share" : "Сподели",
-    "You" : "Ти",
-    "Select a user or group" : "Избери корисник или група",
-    "Delete \"{folderName}\"?" : "Избриши \"{folderName}\"?",
-    "Folder name" : "Име на папка",
-    "Groups" : "Групи",
-    "Quota" : "Квота",
-    "Advanced Permissions" : "Напредни дозволи",
-    "Groupfolder" : "Групна папка",
-    "(Group)" : "(Група)"
-},"pluralForm" :"nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e36e8540f439807aeaef838dbfb218f6d167c48c2d9b4eb96705a29ef2e453
+size 874

@@ -1,13 +1,3 @@
-{ "translations": {
-    "Group folders" : "Grupikaustad",
-    "Read" : "Lugemine",
-    "Write" : "Kirjuta",
-    "Create" : "Loo",
-    "Delete" : "Kustuta",
-    "Share" : "Jaga",
-    "You" : "Sina",
-    "Folder name" : "Kausta nimi",
-    "Groups" : "Grupid",
-    "Quota" : "Kvoot"
-},"pluralForm" :"nplurals=2; plural=(n != 1);"
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1eb301b80740d5be69d187ec8b3e36fc8e22c2de8d716e111a6bfbe8862a8e6
+size 328
